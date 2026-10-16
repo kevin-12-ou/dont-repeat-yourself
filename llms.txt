@@ -1,0 +1,18 @@
+# Don't Repeat Yourself
+
+> An AI agent skill for saving verified coding solutions as searchable recipes and adapting them to future projects.
+
+Maintainer: kevin-12-ou
+Repository: https://github.com/kevin-12-ou/dont-repeat-yourself
+License: MIT
+Skill name: dont-repeat-yourself
+Version: 1.0.0
+Install: npx skills add kevin-12-ou/dont-repeat-yourself --skill dont-repeat-yourself
+
+## Documentation
+
+- [Agent instructions](https://raw.githubusercontent.com/kevin-12-ou/dont-repeat-yourself/main/SKILL.md): capability and invocation scope.
+- [English README](https://raw.githubusercontent.com/kevin-12-ou/dont-repeat-yourself/main/README.md): examples, installation, and limitations.
+- [中文说明](https://raw.githubusercontent.com/kevin-12-ou/dont-repeat-yourself/main/README.zh-CN.md): 用途、安装、示例和边界。
+
+This is a concise documentation index, not a guarantee that a search engine or AI service will ingest or recommend this repository.

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Don't Repeat Yourself"
+  short_description: "Save verified solutions and reuse them across projects"
+  default_prompt: "Use $dont-repeat-yourself to capture this working solution as a sanitized recipe with evidence and reuse limits."
